@@ -1,5 +1,1 @@
-*.c++ linguist-ignored
-*.CMake linguist-ignored
-*.html linguist-ignored
-*.swift linguist-ignored
-*.c linguist-ignored
+.c++ linguist-language=Dart
