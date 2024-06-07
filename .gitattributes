@@ -1,1 +1,4 @@
-.c++ linguist-language=Dart
+*.dart linguist-detectable=true
+*.c++ linguist-detectable=false
+*.CMake linguist-detectable=false
+*.swift linguist-detectable=false
